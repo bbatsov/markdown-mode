@@ -22,7 +22,7 @@
         that your user configuration is loaded after the autoloads for
         `markdown-mode` are evaluated. ([GH-331][], [GH-335][])
     -   Point at the end of fenced code blocks is no-longer considered
-        part of the code block ([GH-#349][]).
+        part of the code block ([GH-349][]).
 
 *   New features:
 
